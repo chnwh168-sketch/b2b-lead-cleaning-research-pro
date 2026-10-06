@@ -1,0 +1,4 @@
+interface:
+  display_name: "加强版线索清洗与背调"
+  short_description: "整合海关与询盘线索，核实身份、采购能力和联系方式，生成可审计 CRM 数据"
+  default_prompt: "使用 $b2b-lead-cleaning-research-pro 清洗并背调这些线索，保留证据和待复核项，输出 Zoho 导入文件。"
